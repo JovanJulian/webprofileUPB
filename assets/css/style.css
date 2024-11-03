@@ -1,0 +1,22 @@
+.heading {
+  color: rgb(0, 0, 0);
+  background-color: white;
+  padding: 2px 4px;
+  display: inline-flex;
+}
+.heroimg {
+  width: 300px;
+  height: 400px;
+  object-fit: cover;
+  object-position: top;
+}
+section{
+    padding: 50px 0;
+}
+.section-title{
+    color: rgb(0, 0, 0);
+
+}
+.bg-image{
+background-image: url("https://media.licdn.com/dms/image/v2/C511BAQE5AlFfcct5tA/company-background_10000/company-background_10000/0/1584246055452/universitas_pelitabangsa_cover?e=2147483647&v=beta&t=-G36nkt1pMdXvLemcoAhw5vPj0fjRd3lF83hX7u-_9Q");
+}
